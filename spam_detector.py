@@ -165,5 +165,6 @@ for msg in test_messages:
     print(f"   {result} → \"{msg[:55]}...\"" if len(msg) > 55 else f"   {result} → \"{msg}\"")
 
 print("\n" + "=" * 50)
-print("PROJECT COMPLETE! Upload this to GitHub 🚀")
+print("Bhai free recharge mil raha hai click kar"
+"Kal college mein practical hai aana")
 print("=" * 50)
